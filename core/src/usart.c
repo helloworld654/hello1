@@ -21,7 +21,5 @@ uint8_t MX_USART1_UART_Init(void)
 
 uint8_t debug_print(uint8_t *pData)
 {
-    // int i;
-    // for(i=0;i<)
     HAL_UART_Transmit(&huart1,pData,strlen(pData),UART_Transmit_Timeout);
 }
