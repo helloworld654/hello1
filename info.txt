@@ -1,2 +1,3 @@
 purpose:
 freertos study
+try to accomplish SmartSpeaker in this project
