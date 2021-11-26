@@ -1,3 +1,4 @@
+for f103c8t6
 purpose:
 freertos study
 try to accomplish SmartSpeaker in this project
